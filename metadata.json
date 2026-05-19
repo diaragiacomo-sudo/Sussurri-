@@ -1,0 +1,6 @@
+{
+  "name": "Sussurri Incantati",
+  "description": "Un'accogliente e magica piattaforma di fiabe incantate per bambini, ricca di avventure, magia e personaggi indimenticabili.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

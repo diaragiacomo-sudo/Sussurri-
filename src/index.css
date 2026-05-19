@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Handlee&family=Pacifico&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Fredoka", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Handlee", cursive;
+  --font-script: "Pacifico", cursive;
+}
+
+body {
+  @apply bg-[#1a103c] text-white font-sans;
+}
